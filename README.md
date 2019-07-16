@@ -7,4 +7,5 @@ To-Do:
 * Release Image in docker hub
 * Release Image in docker hub
 * Release Image in docker hub
+* Release Image in docker hub
 
