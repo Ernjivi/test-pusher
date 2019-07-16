@@ -6,4 +6,5 @@ To-Do:
 * Add documentation
 * Release Image in docker hub
 * Release Image in docker hub
+* Release Image in docker hub
 
