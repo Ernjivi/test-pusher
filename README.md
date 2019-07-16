@@ -3,3 +3,4 @@
 ## To-Do
 
 * Add link to proyect
+* Change styles
