@@ -4,7 +4,3 @@
 
 * Add link to proyect
 * Change styles
-* Change styles
-* Change styles
-* Change styles
-* Change styles
